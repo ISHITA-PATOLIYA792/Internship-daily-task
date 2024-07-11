@@ -1,7 +1,5 @@
 # Internship-daily-task
 
-Based on your report, here is a detailed daily task log for your internship from 13th May 2024 to 16th June 2024.
-
 ### Week 1
 **13th May 2024 (Monday)**
 - **Task:** Exploring GitHub and GitBash, Setting Up GitHub Account
